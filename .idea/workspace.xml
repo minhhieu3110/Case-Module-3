@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ebffda9-d560-4efc-aff7-f99bf0bfb23d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Components/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/CategoriesIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/DeleteIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/DetailIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/EditIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/HomeIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/MenuIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/Package2Icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/PackageIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/SearchIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/ShoppingCartIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Icons/UsersIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/MyContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Categories/AddCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Categories/Categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Categories/EditCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Categories/ListCategories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Home/HomeBottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Home/HomeTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Products/AddProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Products/EditProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Products/ListProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/Products/Products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/User/ListUsers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Pages/User/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Styles/AddProduct.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Styles/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Styles/HomeBottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Styles/HomeTop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Styles/Products.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/Styles/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-admin/src/UploadImg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Icons/CartIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Icons/SearchIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Icons/StarRateIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Icons/UserIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/MyContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/DetailProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Home/BestSales.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Home/Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Home/NewFeature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Pages-Categories/Sports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case-module-user/src/Styles/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/Yêu cầu" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/Yêu cầu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/router/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/router/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react/router/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/router/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-user/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-user/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-user/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-user/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-user/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-user/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JSX File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/case-module-user" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/case-module-user/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kvD1EfElllDKKXNqbhHxcAFI4m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.6\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\ReactJS\Case-Study\case-study-module-3\case-module-admin\src\Pages\Home" />
+      <recent name="D:\CodeGym\ReactJS\Case-Study\case-study-module-3\case-module-admin\src" />
+      <recent name="D:\CodeGym\ReactJS\Case-Study\case-study-module-3\case-module-user\src\Pages\Home" />
+      <recent name="D:\CodeGym\ReactJS\Case-Study\case-study-module-3\case-module-user\src\Pages" />
+      <recent name="D:\CodeGym\ReactJS\Case-Study\case-study-module-3\case-module-user\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ebffda9-d560-4efc-aff7-f99bf0bfb23d" name="Changes" comment="" />
+      <created>1724154939935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724154939935</updated>
+      <workItem from="1724154940954" duration="1467000" />
+      <workItem from="1724157806798" duration="7794000" />
+      <workItem from="1724206671336" duration="6583000" />
+      <workItem from="1724215031037" duration="936000" />
+      <workItem from="1724215992819" duration="57000" />
+      <workItem from="1724216636703" duration="5462000" />
+      <workItem from="1724224867175" duration="15762000" />
+      <workItem from="1724289636926" duration="27745000" />
+      <workItem from="1724367131571" duration="32205000" />
+      <workItem from="1724418735260" duration="12949000" />
+      <workItem from="1724465721503" duration="37630000" />
+      <workItem from="1724556562890" duration="29968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
