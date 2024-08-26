@@ -55,12 +55,16 @@
       <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Pages-Categories/Sports.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/case-module-user/src/Pages/Register.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/case-module-user/src/Styles/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-case-react" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-case-react/Yêu cầu" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/Yêu cầu" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-case-react/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/node_modules/.package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-case-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-case-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-case-react/router/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/router/category.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api-case-react/router/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/api-case-react/router/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-admin" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-admin/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-admin/public/favicon.ico" beforeDir="false" />
@@ -75,6 +79,7 @@
       <change beforePath="$PROJECT_DIR$/case-module-admin/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-admin/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-admin/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-module-user" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-user/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-user/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case-module-user/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-module-user/public/index.html" afterDir="false" />
@@ -168,6 +173,7 @@
       <workItem from="1724418735260" duration="12949000" />
       <workItem from="1724465721503" duration="37630000" />
       <workItem from="1724556562890" duration="29968000" />
+      <workItem from="1724638463330" duration="811000" />
     </task>
     <servers />
   </component>
